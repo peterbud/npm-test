@@ -1,0 +1,14 @@
+{
+  "name": "testname",
+  "version": "1.0.0",
+  "description": "This is a description",
+  "main": "index.js",
+  "scripts": {
+    "test": "idontknow"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "requirejs": "^2.1.17"
+  }
+}
